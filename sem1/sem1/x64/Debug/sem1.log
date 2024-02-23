@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-C:\Users\Rares\Desktop\atp2024\sem1\sem1\FileName.cpp(83,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Rares\Desktop\atp2024\sem1\sem1\FileName.cpp(96,10): warning C4305: 'initializing': truncation from 'double' to 'float'
-  sem1.vcxproj -> C:\Users\Rares\Desktop\atp2024\sem1\x64\Debug\sem1.exe
